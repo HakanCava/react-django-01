@@ -3,9 +3,9 @@
 ## React Project (Frontend)
 
 Project aims to create a "ToDo List" App.
-__yarn create-react-app client__
-__yarn__
-__yarn start__
+__- yarn create-react-app client__
+__- yarn__
+__- yarn start__
 
 ### Project Skeleton
 
