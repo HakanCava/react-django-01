@@ -4,7 +4,7 @@
 
 Project aims to create a "ToDo List" App.
 
-__- yarn create-react-app client__
+__- yarn create react-app client__
 
 __- yarn__
 
