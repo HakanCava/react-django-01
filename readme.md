@@ -64,7 +64,6 @@ __Example: SECRET_KEY=qwertyuıopasdfgh1234569%&__
 
 - Django
 
-**<p align="center">&#9786; Happy Coding &#9997;</p>**
 
 
 ### Description:
@@ -72,4 +71,5 @@ __- Connected react and django using corsheaders. Made the adjustments in the se
 __- Used dbsqLite for database (default for django but you can change)__
 
 
+**<p align="center">&#9786; Happy Coding &#9997;</p>**
 
